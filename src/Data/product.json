@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Shum bola",
+    "author": "G'ofur G'ulom",
+    "price": "350000"
+  },
+  {
+    "id": 2,
+    "name": "O'tgan kunlar",
+    "author": "Abdulla Qodiriy",
+    "price": "400000"
+  },
+  {
+    "id": 3,
+    "name": "Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "price": "40000"
+  },
+  {
+    "id": 4,
+    "name": "Rich dad, poor dad",
+    "author": "Robert Kiyosaki",
+    "price": "40000"
+  }
+]
